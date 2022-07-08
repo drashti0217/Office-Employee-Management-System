@@ -1,2 +1,2 @@
 # Office-Employee-Management-System
-View , Add , Remove and Filter Employee details
+View all employee list , Add an employee , Remove an employee and Filter Employee details.
